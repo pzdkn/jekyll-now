@@ -10,7 +10,7 @@ permalink: /projekte/index
 </style>
 
 <ul class = "minimal">
-{% for project in site.data.projects % }
+{% for project in site.data.projects%}
 <li><a href = "{{project.url}}">{{project.name}}<\a>
 -{{project.descr | markdownify }} <\li>
 </ul>

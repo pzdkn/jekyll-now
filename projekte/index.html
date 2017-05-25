@@ -1,0 +1,16 @@
+---
+layout: projekte
+title: Projekte
+permalink: /projekte/index
+---
+
+
+<style type = "text/css">
+  ui>li>p {margin:0; display:inline;}
+</style>
+
+<ul class = "minimal">
+{% for project in site.data.projects % }
+<li><a href = "{{project.url}}">{{project.name}}<\a>
+-{{project.descr | markdownify }} <\li>
+</ul>

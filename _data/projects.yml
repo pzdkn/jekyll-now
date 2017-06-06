@@ -1,3 +1,11 @@
-name: Per Anhalter nach Armenien
-url: /projekte/anhalter
-descr: Der Anfang einer langen Reise
+-name: Per Anhalter nach Armenien
+ url: /projekte/anhalter
+ descr: Der Anfang einer langen Reise
+ 
+ -name: Digitale Früherziehung
+ url: /projekte/digitalefrueerziehung
+ descr: Einführung in die Gefahren des Interwebs
+ 
+ -name: Test
+  url: Test
+  descr: TestTest

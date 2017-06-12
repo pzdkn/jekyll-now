@@ -16,7 +16,7 @@ Dieser Blog dient dazu diese Beobachtungen festzuhalten und sie zu verarbeiten, 
 
 Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spende] ;)
 
-### Contact me
+### Kontaktdaten
 
 [p.zhao.6174@gmail.com](mailto:p.zhao.6174@gmail.com)
 

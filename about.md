@@ -3,7 +3,8 @@ layout: page
 title: Über Mich
 permalink: /about/
 ---
-<img src="pzdkn-pzdkn.github.com/images/pepe_icon.png" style="float: right;">
+<img src="pepe_icon.png" class="profile-picture" width="128" align="right">
+
 Ich bin Pengfei Zhao. Ein Mensch, der ungefähr 23 Umläufe eines seltsam nassen Planeten um den Stern Sonne erlebt hat,
 14 davon in der Bundesrepublik Deutschland und 9 im postkommunistischen China. 
 

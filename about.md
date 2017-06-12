@@ -11,7 +11,7 @@ In China war die Kindheit, es war das morgentliche Hissen der chinesischen Flagg
 Diese eigenartige Welt wurde abgelöst durch eine andere eigenartige Welt, in der beinahe jeder ein Auto besaß, Kräuter in den Klassenzimmern gezüchtet werden und Wälder die Städte und Dörfer umgrenzten. Hier in Deutschland war die Jugend und das Erwachsenwerden. Hier war der Freundeskreis, in der jeder aus einer anderen Nation stammte und jeder seine eigene Geschichte hatte. Es war das Gymmnasium in einem Vorort von Frankfurt und das Kybernetik Studium in Stuttgart, in dem ich gelernt habe wie Maschinen Lernen, wie dynamische Systeme durch Differentialgleichungen ausdrückt werden und was es heißt ein solches System zu stabilisieren. Es war auch die [Hütte], die mir gezeig hat was es heißt in einer großen Gemeinschaft zu leben und für ein gemeinsames Ziel zu arbeiten.
 
 Nun wird dieser seltsam nasser Planet sich noch einmal um die Sonne drehen, und dieses Mal werde ich die Geschehnisse auf diesem Planeten aus einem kleinen Land am Kaukasus mit dem Namen Armenien beobachten.
-Dieser Blog dient dazu diese Beobachtungen festzuhalten und sie zu verarbeiten, Er dient auch dazu Andere an meinen Beobachtungen teilzuhaben, sie durch meine Eindrücke anzuregen und zu inspirieren.
+Dieser Blog dient dazu diese Beobachtungen festzuhalten und sie zu verarbeiten. Er dient auch dazu Andere an meinen Beobachtungen teilzuhaben und sie durch meine Eindrücke anzuregen und zu inspirieren
 
 
 Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spende] ;)

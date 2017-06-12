@@ -186,7 +186,7 @@ img.align-left {  float: left;  margin-right: 30px; }
 
   @include mobile {
     float: none;
-    display: block;
+    display: inline-block;
     margin: 0 auto;
   }
 }

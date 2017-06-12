@@ -14,7 +14,7 @@ Nun wird dieser seltsam nasser Planet sich noch einmal um die Sonne drehen, und 
 Dieser Blog dient dazu diese Beobachtungen festzuhalten und sie zu verarbeiten, Er dient auch dazu Andere an meinen Beobachtungen teilzuhaben, sie durch meine Eindrücke anzuregen und zu inspirieren.
 
 
-Sollte der Blog dir gefallen, dann unterstütze mich mit einer kleinen [Spende].
+Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spende] ;)
 
 ### Contact me
 

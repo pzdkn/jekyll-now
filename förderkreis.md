@@ -30,6 +30,9 @@ Grundsätzlich ist die IJGD berechtigt, Spendenbescheinigungen zu erstellen. Fü
 
 # Konto der IJGD
 Kontoinhaber : ijgd 
+
 Bank für Sozialwirtschaft Köln
+
 IBAN : DE92 3702 0500 0007 0108 00
+
 BIC : BFSWDE33XXX

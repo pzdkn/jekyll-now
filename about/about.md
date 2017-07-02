@@ -25,5 +25,5 @@ Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spe
 
 
 [Hütte]: https://www.huette-stuttgart.de/
-[Spende]: /förderkreis/
+[Spende]: http://penginarmenien.de/förderkreis/
 

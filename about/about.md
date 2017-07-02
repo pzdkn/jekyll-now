@@ -16,7 +16,7 @@ Nun wird dieser seltsam nasser Planet sich noch einmal um die Sonne drehen, und 
 Dieser Blog dient dazu diese Beobachtungen festzuhalten und sie zu verarbeiten. Er dient auch dazu Andere an meinen Beobachtungen teilzuhaben und sie durch meine Eindrücke anzuregen und zu inspirieren
 
 
-Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spende](/förderkreis/) ;)
+Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spende] ;)
 
 ### Kontaktdaten
 
@@ -25,4 +25,5 @@ Sollte der Blog dir gefallen, dann unterstütze mich doch mit einer kleinen [Spe
 
 
 [Hütte]: https://www.huette-stuttgart.de/
+[Spende]: /förderkreis/
 

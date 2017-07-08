@@ -4,8 +4,8 @@ title: Förderkreis
 permalink: /förderkreis/
 ---
 # Allgemeine Infos
-Zur Durchführung des Weltwärts Freiwilligendienstes erhält zwar die IJGD Unterstützung vom Bundesministerium für wirtschaftliche Zusammenarbeit und Entwiclḱlung (BMZ), jedoch gibt es keine 100 % Finanzierung. Vor diesem Hintergrund und dem Ziel, viele BewerberInnen auch in Zukunft diese Möglichkeiten und eine hohe Qualität der Durchführung bieten zu können, wurde der Förderkreis ins Leben gerufen.
-Die BMZ trägt dabei rund 75 % der Gesamtkosten, die Entsendeorganisation IJGD muss 25 % an Eigenmitteln aufbringen. Die Einnahmen aus dem Förderkreis tragen dazu be einen Teil der Eigenbeteiligung zu senken. Wenn der Förderbetrag eines Freiwilligen bei 2.400 Euro liegen würde, könnte die IJGD kostendeckend arbeiten.
+Zur Durchführung des Weltwärts Freiwilligendienstes erhält zwar die [IJGD] Unterstützung vom Bundesministerium für wirtschaftliche Zusammenarbeit und Entwiclḱlung (BMZ), jedoch gibt es keine 100 % Finanzierung. Vor diesem Hintergrund und dem Ziel, viele BewerberInnen auch in Zukunft diese Möglichkeiten und eine hohe Qualität der Durchführung bieten zu können, wurde der Förderkreis ins Leben gerufen.
+Die BMZ trägt dabei rund 75 % der Gesamtkosten, die Entsendeorganisation [IJGD] muss 25 % an Eigenmitteln aufbringen. Die Einnahmen aus dem Förderkreis tragen dazu be einen Teil der Eigenbeteiligung zu senken. Wenn der Förderbetrag eines Freiwilligen bei 2.400 Euro liegen würde, könnte die IJGD kostendeckend arbeiten.
 
 Ein Förderkreis besteht hierbei aus Menschen, die sich entscheiden, das soziale und interkulturelle Engangement eines jungen Menschen im Ausland in einer gemeinnützigen Organisation zu unterstützen, Nenscgen aus unterschiedlichsten Zusammenhängen bilden den persönlichen Förderkreis eines/r Freiwilligen. Durch das Zeigen von Anteilnahme und Interesse können die Förderer/innen eine moralische Unterstützung für die Freiwilligen in Form von Gesprächspartnern sein. Der Aufbau eines Förderkreises verstärkt auch die öffentliche Wahrnehmung für Freiwilligendienste.
 
@@ -36,3 +36,5 @@ Bank für Sozialwirtschaft Köln
 IBAN : DE92 3702 0500 0007 0108 00
 
 BIC : BFSWDE33XXX
+
+[IJGD]: #ijgd

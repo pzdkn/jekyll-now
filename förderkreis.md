@@ -38,7 +38,7 @@ IBAN : DE92 3702 0500 0007 0108 00
 BIC : BFSWDE33XXX
 
 # Förderkreisliste
-Mit diesem [Link]({{site.url}}/download/Förderkreisliste.doc) können sie die Förderkreisliste herrunterladen.
+Mit diesem [Link]({{ site.url }}/download/Förderkreisliste.doc) können sie die Förderkreisliste herrunterladen.
 
 [IJGD]: http://penginarmenien.de/freiwilligendienst#ijgd
 

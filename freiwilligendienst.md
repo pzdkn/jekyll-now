@@ -15,7 +15,7 @@ Durch das Entsenden von Freiwilligen in den Einsatzsetellen ermöglicht die IJGD
 Dies soll letztlich zu Ihrem Hauptanliegen die Verbesserung der Verständigung zwischen Menschen und Völkern, aktives Handeln gegen Rassismus und Diskriminierung und ein friedliches und gleichberechtigtes Zusammenleben beitragen.
 
 # GAiN
-[GAiN] ist die Hilfsorganisation, für die ich das nächste Jahr arbeiten werde. Sie operiert international und leitet von ihrem Büro in *Mrgavet* aus Hilffsprojekte in Armenien durch.
+[GAiN] ist die Hilfsorganisation, für die ich das nächste Jahr arbeiten werde. Sie operiert international und leitet von ihrem Büro in *Mrgavet* aus Hilffsprojekte in Armenien.
 Ein großer Teil der armenische Bevölkerung lebt in extremer Armut. Insbesondere die ländliche Bevölkerung ist von dieser Armut am schwersten betroffen.
 GAiN versucht durch die Verteilung von finanziellen Hilfen und Hilfsgütern wie Lebensmitteln, Bekleidung, Schulmatrialien das Leben dieser Menschen zu erleichtern. Zudem werden Krankernhäusern und Schulen durch Sachspenden und Renovierungen untertützt. Ein weiterer Punkt ist die Förderung von Ausbildung, so dass Menschen der Zugang zu einer höheren Bildungseinrichtung oder einer zusätzlichen Qualifikation ermöglicht wird. Meine Arbeit verteilt sich auf verschiedene Aufgabenbereiche von GAiN wie das Verteilen der Hilfsgüter vor Ort, admistrative Aufgaben, Familienbesuche als Zeichen der Anteilnahme und Mitgestalten der Hilfskonzepte. Es können auch eigene Projekte durchgeführt werden. Möglickeiten wären Kurse für Deutsch, Englisch, Chinesisch, digitale Früherziehung, Web Entwicklung oder Einführung in eine Programmiersprache.
 

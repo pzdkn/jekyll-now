@@ -15,6 +15,6 @@ Der Mann rief etwas und die Tochter tauchte aus dem Haus auf, rannte die Straße
 Die Frau, die bisher finster schauend neben uns saß und Gemüse für den kommenden Winter in Einmachgläser konservierte kam plötzlich mit einem heiteren Lächeln zu uns und gab mir und ihrem Mann jeweils eine Scheibe Pfirsich. Der Mann gab mir die Flasche und ließ mich riechen, es roch nach starkem Alkohol und süßem Pfirsich. Aufgrund eines unverständlichen Murmelns, das irgendwo das Wort "Selfie" enthielt, wurde ein Selfie dieser beiden bald ins süße Pfirsischdelirium fallenden Menschen aufgenommen.
 Man goß sich die Flüssigkeit die Kehle hinunter und bald schoß in mir nicht nur ein rotes Glühen im Gesicht auf, sondern ein Gedanke in den Kopf, dass Armenien mir anfängt ein wenig mehr zu gefallen.
 
-[Das Selfie](http://penginarmenien.de/images/Mrgavet_PeachLiquor.jpg)
+![Das Selfie](http://penginarmenien.de/images/Mrgavet_PeachLiquor.jpg)
 
 [Gain]: http://penginarmenien.de/freiwilligendienst#gain
